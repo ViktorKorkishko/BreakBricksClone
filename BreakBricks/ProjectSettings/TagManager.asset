@@ -11,10 +11,10 @@ TagManager:
   - 
   - Water
   - UI
-  - Hitbox
-  - 
-  - 
-  - 
+  - Ball
+  - Brick
+  - SideWall
+  - Paltform
   - 
   - 
   - 
