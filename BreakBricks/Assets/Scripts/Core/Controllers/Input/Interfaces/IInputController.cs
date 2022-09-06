@@ -1,6 +1,7 @@
 namespace Core.Controllers.Interfaces
 {
-    public interface IInputController { 
+    public interface IInputController 
+    {
         void HandleInput();
     }
 }
